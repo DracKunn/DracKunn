@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DracKunn
-- 👀 I’m interested in python and Java
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python , JS and Java
+- 🌱 I’m currently learning python and JS
+- 💞️ I’m looking to collaborate on puzzles
 - 📫 How to reach me ...
 
 <!---
